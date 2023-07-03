@@ -20,7 +20,7 @@ You can keep Record like a to-do List or Some description. You are able to delet
 
 ### Technology
 
-I used React.js, Materila UI
+I used React.js, Material UI
 
 ### Setup
 - download or clone the repository
@@ -30,7 +30,7 @@ I used React.js, Materila UI
 
 ### Credits
 
-- Materila UI
+- Material UI
 
 
 ### Final Words
